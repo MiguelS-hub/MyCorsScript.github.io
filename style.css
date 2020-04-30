@@ -1,0 +1,28 @@
+.jumbotron {
+    height:100%;
+    width:100%;
+    background-image: url('http://31.media.tumblr.com/fb2a8a0bd46042ed919adeb359238a7b/tumblr_n5v2wkNGle1rk4ewwo1_500.jpg');
+  }
+  .container {
+    width:1025px;
+    color: white;
+  }
+  .jumbotron .container {
+    max-width: 100%;
+  } 
+  .btn-outline-success:hover{
+    color: red;
+  border: solid;
+  border-color:grey;
+  border-width: 2px;
+  }
+  .list-group{
+      width: 29%;
+      position: ;
+  }
+  .alert{
+      width: 70%;
+      float: right;
+      position: absolute;
+      padding: 0px;
+  }
